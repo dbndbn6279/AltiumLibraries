@@ -1,0 +1,15 @@
+Component   : RES-3362P
+PCB Library : Miscellaneous Devices.PcbLib
+Date        : 9/4/2017
+Time        : 7:10:34 AM
+
+
+
+Dimension : 6.858 x 7.239 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          6        0       1        0
+ Multi Layer                 3          0        0       0        0
+--------------------------------------------------------------------
+ Total                       3          6        0       1        0
